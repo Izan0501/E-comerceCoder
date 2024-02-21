@@ -1,0 +1,72 @@
+[
+    {
+        "tittle": "T-Shirt + Short PSG",
+        "price": 150,
+        "id": 101,
+        "img": "./images/img-tienda-1.jpg",
+        "amount": 1
+    },
+    {
+        "tittle": "T-Shirt + Short FC Barcelona",
+        "price": 150,
+        "id": 102,
+        "img": "./images/img-tienda-2.jpg",
+        "amount": 1
+    },
+    {
+        "tittle": "T-Shirt + Short Juventus",
+        "price": 150,
+        "id": 103,
+        "img": "./images/juve-img.png",
+        "amount": 1
+    },
+    {
+        "tittle": "T-Shirt Tottenham",
+        "price": 100,
+        "id": 104,
+        "img": "./images/tot-img.jpg",
+        "amount": 1
+    },
+    {
+        "tittle": "T-Shirt BayernM",
+        "price": 100,
+        "id": 105,
+        "img": "./images/bym-img.jpg",
+        "amount": 1
+    },
+    {
+        "tittle": "T-Shirt Real Madrid",
+        "price": 100,
+        "id": 106,
+        "img": "./images/realm-img.jpg",
+        "amount": 1
+    },
+    {
+        "tittle": "T-Shirt Arsenal",
+        "price": 100,
+        "id": 107,
+        "img": "./images/img-ars.jpg",
+        "amount": 1
+    },
+    {
+        "tittle": "T-Shirt Chealse",
+        "price": 100,
+        "id": 108,
+        "img": "./images/img-tienda-3.jpg",
+        "amount": 1
+    },
+    {
+        "tittle": "T-Shirt Argentina",
+        "price": 100,
+        "id": 109,
+        "img": "./images/img-arg.jpg",
+        "amount": 1
+    },
+    {
+        "tittle": "T-Shirt MCI",
+        "price": 100,
+        "id": 110,
+        "img": "./images/city-img.jpg",
+        "amount": 1
+    }
+]
